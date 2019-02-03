@@ -12,7 +12,7 @@ input[type='button'],input[type='submit']{
     color:white;
 }
 #add{
-background-color:darkgreen;
+background-color:green;
 border-top-left-radius:10px;
 border-bottom-left-radius:10px;
 }
